@@ -1,0 +1,8 @@
+streamlit>=1.22.0
+folium>=0.14.0
+geopandas>=0.12.2
+pandas>=1.5.3
+streamlit-folium>=0.12.0
+matplotlib>=3.7.1
+geojson>=3.0.1
+shapely>=2.0.1
